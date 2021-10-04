@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+
+/*-----------------------------------------------------------------------------------*/
+
+
+/*google font*/
+
+.hold-transition,
+.content-wrapper,
+.main-header,
+.main-sidebar,
+.info,
+.login-page,
+.login-box {
+    font-family: 'Mitr', sans-serif;
+}
+
+.login-logo {
+    font-family: 'Mitr', sans-serif;
+}
+
+.loader {
+    font-family: 'Mitr', sans-serif;
+}
